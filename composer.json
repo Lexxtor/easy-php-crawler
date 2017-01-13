@@ -1,0 +1,18 @@
+{
+    "name": "lexxtor/easyPhpCrawler",
+    "description": "Simple yet flexible URL crawler.",
+    "homepage": "https://github.com/lexxtor/easyPhpCrawler",
+    "keywords": [
+        "crawler",
+        "link",
+        "website"
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.x-dev"
+        }
+    }
+}
