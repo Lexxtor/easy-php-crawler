@@ -1,7 +1,7 @@
 {
-    "name": "lexxtor/easyPhpCrawler",
+    "name": "lexxtor/easy-php-crawler",
     "description": "Simple yet flexible URL crawler.",
-    "homepage": "https://github.com/lexxtor/easyPhpCrawler",
+    "homepage": "https://github.com/lexxtor/easy-php-crawler",
     "keywords": [
         "crawler",
         "link",
