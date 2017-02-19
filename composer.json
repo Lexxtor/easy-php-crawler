@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lexxtor\\easy-php-crawler": ""
+            "lexxtor\\easy-php-crawler\\": ""
         }
     },
     "extra": {
