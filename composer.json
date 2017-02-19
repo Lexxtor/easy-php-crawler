@@ -10,6 +10,11 @@
     "require": {
         "php": ">=5.4"
     },
+    "autoload": {
+        "psr-4": {
+            "lexxtor\\easy-php-crawler": ""
+        }
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "0.0.x-dev"
